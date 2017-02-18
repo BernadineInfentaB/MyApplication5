@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="a">1.Choose the correct name for this butterfly.</string>
+    <string name="MONARCH">a.Monarch.</string>
+    <string name="GATEKEEPER">b.Gatekeeper.</string>
+    <string name="b">c.Brown Argus.</string>
+    <string name="c">d.Painted Lady.</string>
 </resources>
